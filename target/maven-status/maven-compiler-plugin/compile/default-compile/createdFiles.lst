@@ -1,6 +1,0 @@
-com/iqmsoft/model/ChatMessage.class
-com/iqmsoft/MainApp.class
-com/iqmsoft/configuration/WebSocketConfig.class
-com/iqmsoft/controller/WebSocketEventListener.class
-com/iqmsoft/model/ChatMessage$MessageType.class
-com/iqmsoft/controller/ChatController.class
